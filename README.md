@@ -4,7 +4,7 @@
 
 This repository contains the analysis code for our study investigating the cognitive associations between video gaming, GPS reliance, and wayfinding ability.
 
-## 🔬 Key Finding
+## 🔬 Key Findings
 We found a significant positive association between **weekly hours of video gaming** and wayfinding performance, whereas **reliance on GPS** showed no significant association.
 
 ## 📁 Files
